@@ -1,0 +1,16 @@
+.tostmessage{
+    position: absolute;
+    width: fit-content;
+    bottom: 82vh;
+    color: red;
+    border: 5px solid black;
+    height: fit-content;
+    padding: 5px;
+}
+.tostmessage button{
+    border-radius: 60px;
+    font-size: '12px';
+
+    bottom: 0px;
+    left:120px
+}

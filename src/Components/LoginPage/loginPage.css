@@ -1,0 +1,40 @@
+.box{
+    /* background-color: blue; */
+    border: 2px solid rgba(0, 0, 0, 0.301);
+    width: fit-content;
+    padding: 5%;
+    position: relative;
+    top: 200px;
+    left:35vw;
+    /* margin: 20% 20%; */
+ 
+    background-color: rgb(190, 241, 241);
+    border-radius: 15%;
+  
+}
+body{
+    background-image: url(../../assets/background.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.text input {
+margin: 5px;
+position: relative;
+}
+.text input#name{
+    left: 10px;
+}
+.signupbutton{
+display: block;
+margin-top: 10px;
+}
+.loginButtons{
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+.loginButtons button:hover{
+  
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); 
+}
