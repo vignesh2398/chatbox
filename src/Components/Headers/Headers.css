@@ -1,0 +1,10 @@
+.headers{
+background-color: aquamarine;
+position: fixed;
+width: 100vW;
+z-index: 100;
+}
+.logout{
+    position: relative;
+    left: 96vw;
+}

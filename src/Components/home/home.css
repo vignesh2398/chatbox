@@ -1,4 +1,56 @@
 .names{
     border: 2px solid rgba(0, 0, 0, 0.301);
-    width: 20vw;
+    width: 30vw;
+    margin: 0px 5px 1px 0px;
 }
+.table{
+    position: relative;
+    right: 30px;
+    width: 30vw;
+    
+}
+.sideBox{
+    position: relative;
+    top: 29px;
+    background-color: bisque;
+    width: fit-content;
+    height: 80vh;
+    border: 3px solid black;
+}
+.TextBox{
+    background-color: aqua;
+    position: relative;
+    bottom: 77vh;
+    width: 68vw;
+    left: 31vw;
+    height: 80vh;
+    border: 2px solid black;
+
+}
+.message{
+    position: relative;
+    top: 629px;
+    left: 10px;
+    border: 1px solid;
+    margin: 3px;
+    padding: 2px 4px;
+    width: fit-content;
+    border-radius: 10px;
+    color: darkgreen;
+    background-color: azure;
+}
+.messagesent{
+    position: relative;
+    top: 629px;
+    left: 65vw;
+    border: 1px solid;
+    margin: 3px;
+    padding: 2px 4px;
+    width: fit-content;
+    border-radius: 10px;
+    background-color: blue;
+    color: rgb(100, 0, 67);
+}
+
+
+
